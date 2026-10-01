@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
+
+Host: https://xn--1--8kcg4aiz7al.xn--p1ai
+Sitemap: https://xn--1--8kcg4aiz7al.xn--p1ai/sitemap.xml
